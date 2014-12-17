@@ -1,4 +1,0 @@
-pqp
-===
-
-Proximity Query Package
