@@ -1,0 +1,12 @@
+PQP Setup Instructions for OMPLapp
+
+Use the CMakeLists.txt file to compile and install PQP
+	Save in the PQP top-level directory (already places in src)
+	> cmake . && make && make install
+		may have to sudo !!
+
+Remove CMakeCache.txt from the omplapp build dir
+Rerun cmake
+make clean
+make
+

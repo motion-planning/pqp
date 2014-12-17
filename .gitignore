@@ -1,3 +1,5 @@
+# C++
+
 # Compiled Object files
 *.slo
 *.lo
@@ -26,3 +28,12 @@
 *.exe
 *.out
 *.app
+
+
+
+# Linux
+
+*~
+
+# KDE directory preferences
+.directory
